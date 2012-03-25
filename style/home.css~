@@ -1,0 +1,47 @@
+<style type="text/css">
+
+	body{
+		text-align: center;
+	}
+
+	#top{
+		margin: 40px;
+		width: 800px;
+		background: none;
+		border: none;
+		color: white;
+		text-align: left;
+	}
+
+	.content{
+		width: 800px;
+		padding-right: 10px;
+		padding-left: 10px;
+		padding-top: 5px;
+		padding-bottom: 5px;
+		background: white;
+		margin: 20px;
+		-webkit-border-radius: 6px;
+		-moz-border-radius: 6px;
+		border-radius: 6px;
+		text-align: left;
+	}
+
+	h2 {
+		font-weight: bold;
+	}
+
+	h3{
+		width: 100%;
+		position: relative;
+		display: block;
+		text-align: left;
+		border-bottom: 2px solid #10253C;
+		color: #10253C;
+		color: black;
+		font-weight: bold;
+		padding: 3px;
+		margin-bottom: 0px;
+	}
+
+</style>

@@ -1,0 +1,65 @@
+<html>
+<head>
+	
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8"/>
+    <meta name="author" content="Fernando Asevedo"/>
+    <meta name="description" content="Projetos de Fernando Asevedo no GitHub." />
+    <meta name="keywords" content="programacao, fernandoasevedo, ruby, java, git,  pln, aprendizado"/>
+
+    <title>Fernando Asevedo in GitHub</title>
+
+    <style type="text/css">
+    	@import url("style/home.css");
+    </style>
+
+</head>
+<body>
+	
+	<center>
+		<div id='top' class='center'>
+			<h1>Fernando Asevedo @ GitHub</h1>
+			<h2>Mestrando do ICMC</h2>
+			<br />
+		</div>
+
+		<div class="content">
+			
+			<h3>My projects in GitHub</h3>
+	
+			<div class='text'>
+				<ul>
+					<li><a href=''>Twitter Sample</a></li>
+					<li><a href='https://github.com/fernandoasevedo/JBing'>JBing</a></li>
+					<li>My gitpage</li>
+				</ul>
+			</div>
+		</div>
+
+		<div class='content'>
+
+			<h3>About me</h3>
+			<div class='text'>
+				
+				<p>	
+					Atualmente, trabalho na área de Processamento de Língua Natural (PLN), por ser uma área que apresenta grandes desafios. Outro motivação desta área é que a grande maioria da informação compartilhada no mundo, principalmente na web, é representada de forma textual, o que apresenta um grande cenário para aplicações. 
+				</p>
+
+				<p>
+					Porém, o principal motivo que encontro para desenvolvimento de aplicações, inclusive em PLN, está na inovação, na capacidade de criar e desenvolver ideias com poucas, ou várias, linhas de códigos.
+				</p>
+			</div>
+		</div>
+
+		<div class='content'>
+				<h3>Formação</h3>
+				<div class='text'>
+					<ul>
+						<li>Bacharel em Ciência da Computação pela UFG
+						<li>Candidato a Mestre em Ciências Matemáticas e de Computação pelo ICMC-USP.
+					</ul>
+				</div>
+		<div>
+
+	</center>
+</body>
+</html>
